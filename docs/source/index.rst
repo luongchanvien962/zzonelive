@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ZZONE - Nền tảng giải trí và đổi thưởng uy tín cho giới trẻ Việt
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ZZONE <https://zzone.live/>`_ là một nền tảng giải trí và đổi thưởng trực tuyến uy tín, hướng đến giới trẻ Việt Nam. Với sứ mệnh mang đến sân chơi công bằng, minh bạch, ZZONE cung cấp hệ thống nhiệm vụ tích điểm đổi quà độc đáo cùng các dịch vụ giải trí đa dạng như game, xổ số, truyện tranh, và thể thao. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được đánh giá là cổng giải trí hàng đầu, ZZONE không chỉ cung cấp trải nghiệm tốt nhất cho người chơi mà còn cam kết không phụ thuộc vào quảng cáo từ bên thứ ba. ZZONE với tầm nhìn vươn tầm thế giới đã liên tục phát triển để trở thành địa chỉ uy tín và đáng tin cậy cho cộng đồng người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 83/1 ấp 4, Xuân Thới Thượng, Hóc Môn, TP. Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0312569884. 
 
-.. toctree::
+Email: contact@zzone.live. 
 
-   usage
-   api
+Website: https://zzone.live/ 
+
+zzone #trangchuzzone #dangkyzzone #dangnhapzzone #linkzzone
